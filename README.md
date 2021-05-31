@@ -2,7 +2,7 @@
 - 👀 I’m interested in health tech 
 - 🌱 I’m currently learning R 
 - 💞️ I’m looking to collaborate  
-- 📫 [Website](alistaircannon.co.uk) or [Twitter](twitter.com/alistaircannon) 
+- 📫 [Website](www.alistaircannon.co.uk) or [Twitter](www.twitter.com/alistaircannon) 
 
 <!---
 alistaircannon/alistaircannon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
